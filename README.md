@@ -2,6 +2,8 @@
 
 A collection of basic Python scripts for learning and practice.
 
+Helpful to return to practice.
+
 ## Overview
 
 This repository contains fundamental Python scripts demonstrating core programming concepts and techniques.
